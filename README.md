@@ -84,7 +84,7 @@ Undercova:
   6  ,  7  :0
   7  , 10  :1
 ```
-### *artGallery, part 2 ( .. u6a-a-a oTge ru 3e'Tu Tus cuHu Tpt6u 6e ge6a !? )*
+### *artGallery, part 2*
 ![OKAY](pix/OKAY.png)
 
 **YEAh** Ok **PARt** tWO **thiS** iS **thE** COVERiNG **PARt**, **W**E RE**f**ER th**E** **S**O ***C***AllEd l**E**NGth
