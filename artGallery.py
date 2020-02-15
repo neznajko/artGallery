@@ -266,4 +266,3 @@ if __name__ == "__main__":
         for g in stk:
             print(f"Starting from {g[1]}:", g[0])
 ########################################################### log:
-# - negs 4oBeK 7aKeT k7t4 u 20 7eBt B moyTo Ha ?
