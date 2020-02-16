@@ -92,7 +92,7 @@ class Period: #                                                _
 ################################################################
 def classify(ls, t):
     j = 0 # ve are modifying ls on the fly zo ve are going to
-          # use a vile loof vit an loofing index
+          # use a vile loof vit a loofing index
     def insert_coin(a, b, n):
         nonlocal j
         ls.insert(j, Period(a, b, n))
@@ -236,7 +236,7 @@ def fourfor(psiz, island): #####################################
     return aux[j] ##############################################
 ################################################################
 def _estTzone():
-    #### Your code goes here, .. mua-ha-ha-ha ..
+    #### Your code goes here, .. 
     ###############                 ^^
     sys.exit() ####                 ..  
 ################################################################
@@ -266,3 +266,4 @@ if __name__ == "__main__":
         for g in stk:
             print(f"Starting from {g[1]}:", g[0])
 ########################################################### log:
+# negs 4oBeK 7aKeT 6paga u 20 7eBa muahahaha

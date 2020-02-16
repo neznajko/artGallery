@@ -4,8 +4,9 @@
 ### RND2, PROB1
 #### RND2, PROB1
 ##### RND2, PROB1
-***Ok!*** this is rnd *2* prob *1*, and it's "bout *Guard Shedule* and an *Art Gallery*.
-£irst æe ¦ave ±o ¶ocate ×he Þeriods ¾ith *Ø* ór *¹* Çuards ¡n ¬he *§hedule*.
+***Ok!*** this is rnd *2* prob *1*, and it's about a *Guard Shedule*
+and an *Art Gallery*.
+£irst YYe Ϧave ±o ¶ocate ×he Þeriods ¾ith *Ø* ór *¹* Çuards ¡n ¬he *§hedule*.
 TĦen sűpplied wĩth *Gąllery's* cĹosing tİme aŉd **dūty length** pěr gŲard,
 tħe pŕogram hăs tő cŐver tĤose *gĄps* wīth mınimum pŌssible ***wĀtchmen*** >**>**
  [cłck](https://ioinformatics.org/files/ioi1990round2.pdf "IOI'90, Round 2").
